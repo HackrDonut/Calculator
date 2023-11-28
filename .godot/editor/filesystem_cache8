@@ -1,6 +1,8 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1701104453
+::res://::1701190522
+calculator.tscn::PackedScene::5550276508533773962::1701190502::0::1::::<><>::uid://cy4vuvhw156ax::::res://normal_equal_style.tres<>uid://de7d46ry7rdn7::::res://assets/assets/Negate_btn.png<>uid://cuq5jlx5esku3::::res://assets/assets/Delete_btn.png<>uid://kkii6h4kqgao::::res://assets/assets/Division_btn.png<>uid://cb51e48tlurid::::res://assets/assets/Multiplication_btn.png<>uid://glqt74e0w3u8::::res://assets/assets/Subtraction_btn.png<>uid://c7wgpqxg77xv0::::res://assets/assets/Addition_btn.png<>uid://dox1u0lbo5xht::::res://assets/assets/Equal_btn.png
 icon.svg::CompressedTexture2D::832759957365960940::1701102791::1701102799::1::::<><>::
+normal_equal_style.tres::StyleBoxFlat::6518552457132429475::1701190501::0::1::::<><>::
 README.md::TextFile::-1::1701103002::0::1::::<><>::
 ::res://assets/::1701103226
 ::res://assets/assets/::1701103226
